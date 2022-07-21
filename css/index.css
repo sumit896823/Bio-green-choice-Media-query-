@@ -1,0 +1,112 @@
+body{background-color: rgb(59, 126, 101);}
+.css{border:1px solid none;height: 650px;width:1200px;margin:0 auto}
+.css1{border: 1px solid none;height: 650px;width: 400px;float: left;background-color:white;}
+.css1a{border: 1px solid none;height: 110px;width: 280px;margin-top: 8%;margin-left: 12%;background: url('../images/green logo.png')no-repeat;background-size: 100% 100%;}
+.css1b{border: 1px solid none;height: 200px;width: 350px;font-size: 42px;font-family: Arial;margin-left: 6%;font-weight: 500;color: #1e2426;margin-top: 6%;}
+.css1c{border: 1px solid none;height: 90px;width: 350px;margin-top: 9%;margin-left: 6%;line-height: 1.6;color: #1e2426;font-family: arial;font-size: 14px;}
+.css1d{border: 1px solid none;height: 100px;width: 350px;margin-top: 8%;margin-left: 6%;color: #1e2426;}
+.css1d a{border: 1px solid none;padding: 6% 13% 6% 13%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;}
+.css1d a:hover{background-color: rgb(59, 126, 101);}
+.css2{border: 1px solid none;height: 650px;width: 796px;float: left;background-image: url('../images/our_img1.jpg');background-size:100% 100%;margin: 0 auto;}
+.css2a{border: 1px solid none;height:100px;width:600px;font-family: arial;font-size: 54px;color: #1e2426;text-shadow:4px 4px 6PX white;font-weight:bolder;margin-top: 37%;margin-left: 15%;font-weight: 520;}
+.css3{border:1px solid none;height: 710px;width:1200px;margin:0 auto;background-color: white;}
+.css3a{border:1px solid none;height: 520px;width:640px;float: left;margin-top: 8%;background-image: url('../images/about_img.jpg');background-size: 100% 100%;}
+.css3b{border:1px solid none;height: 520px;width:540px;float: left;margin-top: 8%;background-color: white}
+.css3b1{border: 1px solid none;height:80px ;width: 95%;margin-top: 19%;text-align: right;color:#1e2426;font-size: 45px;font-family:sans-serif;}
+.css3b2{border: 1px solid none;height:150px ;width: 95%;font-family: arial;font-size: 16px;color: #1e2426;text-align: right;line-height: 1.4;}
+.css3b3{border: 1px solid none;height:80px ;width: 95%;text-align: right;margin-top: 9%}
+.css3b4 a{border: 1px solid none;padding: 4% 7% 4% 7%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;;}
+.css3b4 a:hover{background-color: rgb(59, 126, 101);}
+.css4{border:1px solid none;width: 1200px;height:690px;margin:0 auto;background-color: white;}
+.css4a{border:1px solid none;width: 460px;height:600px;float: left;background-color: white;}
+.css4a1{border: 1px solid none;height: 50px;width: 95%;font-family: sans-serif;font-size: 35px;font-weight: 600;color:#1e2426;margin-top: 20%;margin-left: 3%;}
+.css4a2{border: 1px solid none;height: 300px;width: 95%;font-family: sans-serif;font-size: 14.6px;color: #1e2426;line-height: 1.8;margin-left: 4%;padding-top: 7%;}
+.css4a3{border: 1px solid none;height: 10px;width: 90%;margin-left: 4%;margin-top: -10%;}
+.css4b{border:1px solid none;width: 725px;height:600px;float:left;background-image: url('../images/our_img.jpg');background-size: 100% 100%;}
+.css4a3 a{border: 1px solid none;padding: 4% 8% 4% 8%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;;}
+.css4a3 a:hover{background-color: rgb(59, 126, 101);}
+.css5{border: 1px solid none;width: 1200px;height: 650px;margin:0 auto;background-color: white;}
+.css5a{border: 1px solid none;width: 750px;height: 600px;float: left;}
+.css5a1{border: 1px solid none;width: 360px;height: 270px;float: left;margin: .6%;background-image: url('../images/fruit_img1.jpg');background-size: 100% 100%;}
+.css5a2{border: 1px solid none;width: 360px;height: 270px;float: left;margin: .6%;background-image: url('../images/fruit_img2.jpg');background-size: 100% 100%;}
+.css5a3{border: 1px solid none;width: 360px;height: 270px;float: left;margin: .6%;background-image: url('../images/fruit_img3.jpg');background-size: 100% 100%;}
+.css5a4{border: 1px solid none;width: 360px;height: 270px;float: left;margin: .6%;background-image: url('../images/fruit_img4.jpg');background-size: 100% 100%;}
+.css5b{border: 1px solid none;width: 440px;height: 600px;float: left;background-color: white;}
+.css5b1{border: 1px solid none;width: 420px;height: 200px;float: left;margin-top: 12%;color: #1e2426;font-size: 39px;font-family: sans-serif;text-align: right;line-height: 1.6;}
+.css5b2{border: 1px solid none;width: 420px;height: 200px;float: left;color: #1e2426;font-size: 14px;font-family: arial;text-align: right;line-height: 1.6;}
+.css5b3{border: 1px solid none;width: 420px;height: 70px;float: left;text-align: right;}
+.css5b3 a{border: 1px solid none;padding: 4% 8% 4% 8%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;}
+.css5b3 a:hover{background-color: rgb(59, 126, 101);}
+.css6{border: 1px solid none;width: 1200px;height: 400px;margin: 0 auto;background-color:white;}
+.css6a{border: 1px solid none;width: 600px;height: 400px;background-color:white;float: left;}
+.css6a1{border: 1px solid none;width: 550px;height: 100px;margin: 9% 0px 0px 3%;font-family: sans-serif;font-size: 44px;font-weight: 600;color: #1e2426;}
+.css6a2{border: 1px solid none;width: 550px;height: 200px;margin: 0% 0px 0px 3%;font-family: arial;font-size: 16px;color: #1e2426;line-height: 1.6;}
+.css6b{border: 4px solid white;width: 590px;height: 390px;background-color:rgb(59, 126, 101);float: left;}
+.css6b1{border: 1px solid none;width: 480px;height: 200px;background-color:white;margin:16% 10% 10% 7%;}
+.css6b2{border: 1px solid none;width: 480px;height: 30px;background-color:white;text-align: center;font-family: sans-serif;color: rgb(59, 126, 101);font-size: 24px;padding-top: 6%;}
+.css6b3{border: 1px solid none;width: 480px;height: 130px;background-color:white;text-align: center;font-family: sans-serif;color:#1e2426;font-size: 13px;line-height: 1.8;margin-top: 7%;}
+.css7{border:1px solid none;height: 300px;width:1200px;margin:0 auto;background-color: white;}
+.css7a{border:1px solid none;height: 80px;width:1200px;background-color: white;text-align: center;font-size: 38px;font-family: sans-serif;color: rgb(59, 126, 101);padding-top: 6%;}
+.css7b{border:1px solid none;height: 100px;width:1200px;background-color: white;text-align: center;font-size: 18px;font-family: arial;color: #1e2426}
+.css8{border: 1px solid none;height: 45px;width:1200px;margin:0 auto;background-color: #1e2426;text-align: center;color:white;font-size: 23px;font-family: arial;padding-top: 20px;}
+
+
+
+
+
+
+@media screen and (max-width: 600px)
+{
+.CSS{border:1px solid none;height: 860px;width:100%;margin-left: 0%;}
+.css1{border: 1px solid none;height: 560px;width: 100%;background-color:white;}
+.css1a{border: 1px solid none;height: 100px;width: 70%;margin-top: 5%;margin-left: 15%;background: url('../images/green logo.png')no-repeat;background-size: 100% 100%;}
+.css1b{border: 1px solid none;height: 200px;width: 350px;font-size: 42px;font-family: Arial;font-weight: 500;color: #1e2426;}
+.css1c{border: 1px solid none;height: 90px;width: 350px;margin-top: 5%;line-height: 1.6;color: #1e2426;font-family: arial;font-size: 14px;}
+.css1d{border: 1px solid none;height: 100px;width: 350px;margin-top: 5%;color: #1e2426;}
+.css1d a{border: 1px solid none;padding: 6% 13% 6% 13%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;}
+.css1d a:hover{background-color: rgb(59, 126, 101);}
+.css2{border: 1px solid none;height: 300px;width:100%;background-image: url('../images/our_img1.jpg');margin-top: 0%;}
+.css2a{border: 1px solid none;height:60px;width:100%;font-family: arial;margin:0px;font-size: 30px;color: #1e2426;margin-top: 29%;text-align: center;font-weight: 520;}
+.css3{border:1px solid none;height: 510px;width:100%;background-color: white;margin:0%;}
+.css3a{border:1px solid none;height: 70%;width:100%;background:  url('../images/about_img.jpg');background-size: 100% 100%;}
+.css3b{border:1px solid none;height: 440px;width:100%;float: left;margin-top:0%;background-color: white;padding-top: 25%;}
+.css3b1{border: 1px solid none;height:80px ;width: 100%;text-align: center;color:#1e2426;font-size: 45px;font-family:sans-serif}
+.css3b2{border: 1px solid none;height:130px ;width: 100%;font-family: arial;font-size: 12px;color: #1e2426;text-align: center;line-height: 1.4;margin-top: 1%;}
+.css3b3{border: 1px solid none;height:80px ;width: 90%;text-align: right;margin-top: 9%;padding-right: 2%;}
+.css3b4 a{border: 1px solid none;padding: 5% 8% 5% 8%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;;}
+.css3b4 a:hover{background-color:rgb(59, 126, 101);}
+.css4{border:1px solid none;width: 100%;height:890px;margin: 0;}
+.css4a{border:1px solid none;width: 100%;height:400px;background-color: white;margin-top: 390px;}
+.css4a1{border: 1px solid none;height: 70px;width: 100%;font-family: sans-serif;text-align: center;font-size: 35px;font-weight: 600;color:#1e2426;margin:0%;}
+.css4a2{border: 1px solid none;height: 200px;width: 100%;font-family: sans-serif;text-align: center;font-size: 12px;color: #1e2426;line-height: 1.5;margin:0%;}
+.css4a3{border: 1px solid none;height: 70px;width: 100%;margin:0%;}
+.css4b{border:1px solid none;width: 100%;height:300px;background-image: url('../images/our_img.jpg');background-size: 100% 100%;margin-top: -740px;}
+.css4a3 a{border: 1px solid none;padding: 4% 8% 4% 8%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;;}
+.css4a3 a:hover{background-color:rgb(59, 126, 101);}
+.start{border: 1px solid none;height: 600px;float: left;}
+.css5{border: 1px solid none;width: 100%;height: 1490px;margin:0%;background-color: white;}
+.css5a{border: 1px solid none;width: 100%;height: 600px;background-color: white;}
+.css5a1{border: 1px solid none;width: 99%;height: 270px;background-image: url('../images/fruit_img1.jpg');background-size: 100% 100%;}
+.css5a2{border: 1px solid none;width: 99%;height: 270px;background-image: url('../images/fruit_img2.jpg');background-size: 100% 100%;}
+.css5a3{border: 1px solid none;width: 99%;height: 270px;background-image: url('../images/fruit_img3.jpg');background-size: 100% 100%;}
+.css5a4{border: 1px solid none;width: 99%;height: 270px;background-image: url('../images/fruit_img4.jpg');background-size: 100% 100%;}
+.css5b{border: 1px solid none;width: 100%;height: 450px;margin-top: 530px;}
+.css5b1{border: 1px solid none;width: 100%;height: 100px;color: #1e2426;font-size: 28px;font-family: sans-serif;text-align: center;line-height: 1.6;font-weight: 600;}
+.css5b2{border: 1px solid none;width: 100%;height: 200px;color: #1e2426;font-size: 12px;font-family: arial;text-align: center;line-height: 1.6;}
+.css5b3{border: 1px solid none;width: 94%;height: 70px;text-align: right;}
+.css5b3 a{border: 1px solid none;padding: 4% 8% 4% 8%;font-family: arial;text-decoration: none;color:white;background-color: #1e2426;transition: background-color 1s;}
+.css5b3 a:hover{background-color:rgb(59, 126, 101);}
+.css6{border: 1px solid none;width: 100%;height: 330px;margin: 0px ;background-color:white;margin-top: 865px;}
+.css6a{border: 1px solid none;width: 90%;height: 270px;background-color:white;}
+.css6a1{border: 1px solid none;width: 100%;height: 100px;;font-family: sans-serif;font-size: 44px;font-weight: 600;color: #1e2426;}
+.css6a2{border: 1px solid none;width: 100%;height: 150px;font-family: arial;font-size: 11px;color: #1e2426;line-height: 1.9;}
+.css6b{border: 4px solid white;width: 94%;height: 350px;background-color:rgb(59, 126, 101);margin-top: -686px;border-radius:1% ;padding-left: 5%;}
+.css6b1{border: 1px solid none;width: 80%;height: 240px;background-color:white;;}
+.css6b2{border: 1px solid none;width: 100%;height: 30px;background-color:white;text-align: center;font-family: sans-serif;color: rgb(59, 126, 101);font-size: 24px;margin-top: 6%;}
+.css6b3{border: 1px solid none;width: 100%;height: 130px;background-color:white;text-align:center;font-family: sans-serif;color:#1e2426;font-size: 11px;line-height: 1.8;}
+.css7{border:1px solid none;height: 180px;width:100%;margin:0% ;background-color: white;}
+.css7a{border:1px solid none;height: 60px;width:100%;background-color: white;text-align: center;font-size: 38px;font-family: sans-serif;color:rgb(59, 126, 101);padding-top: 6%;}
+.css7b{border:1px solid none;height: 70px;width:100%;background-color: white;text-align: center;font-size: 11px;font-family: arial;color: #1e2426;line-height: 1.5;}
+.css8{border: 1px solid none;height: 45px;width:100%;margin:0%;background-color: #1e2426;text-align: center;color:white;font-size: 12px;font-family: arial;padding-top: 20px;}
+
+}
